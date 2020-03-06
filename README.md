@@ -1,5 +1,5 @@
 # Frieght-route-planner
-Create a route optimization algorithm with zero running costs
+Create a route optimization algorithm with zero running costs as an alternative to google maps, routific, mapbox, etc.
 
 A tutorial on how to create a route optimization algorithm using google's OR-tools and OSRM, learn from my mistakes and trials not just the "right" code.
 
@@ -14,4 +14,4 @@ https://the-algorithms-portal.blogspot.com/2020/03/create-route-optimization-alg
 Create a route optimization algorithm with zero costs using google's OR-tools and OSRM part 3
 https://the-algorithms-portal.blogspot.com/2020/03/create-route-optimization-algorithm_68.html
 
-#osrm #google_maps #or_tools #osrm-backend #algorithm #leaflet
+#osrm #google_maps #or_tools #osrm-backend #algorithm #leaflet #routific #mapbox
